@@ -11,8 +11,3 @@ Ensure you have the following libraries installed:
 - `numpy`
 - `opencv-python`
 - `pickle`
-
-You can install these using pip:
-
-```bash
-pip install numpy opencv-python pickle-mixin
